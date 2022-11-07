@@ -2,3 +2,4 @@
 - 👀 I’m interested in Front End Software Development, particularly with Javascript and the React framework.
 - 🌱 I’m currently in a General Assembly Software Engineering Immersive.
 - 💞️ I’m looking to collaborate on projects that that use React, JavaScript, or Python
+- 🧑‍💻 Check out my website at <a href="nate-morgan.com">nate-morgan.com</a>
