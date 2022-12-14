@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @NateMorgan
+# 👋 Hi, I’m @NateMorgan
+
+<img src="Nate Morgan Software Engineer.gif" alt="Banner" width="600" height="200">
+
 - 👀 I’m interested in creating Full-Stack Software Applications.
 - 🌱 I’m currently pursuing my first job in the industry.
 - 💞️ I’m looking to collaborate on projects that that use React, JavaScript, or Python
